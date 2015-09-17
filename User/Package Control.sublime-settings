@@ -1,0 +1,9 @@
+{
+	"http_proxy": "http://proxy.wellsfargo.com:8080",
+	"https_proxy": "http://proxy.wellsfargo.com:8080",
+	"installed_packages":
+	[
+		"HTML5",
+		"jQuery"
+	]
+}

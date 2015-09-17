@@ -1,0 +1,1180 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fwn",
+				"FIT.widget.Notify.success"
+			],
+			[
+				"fhw",
+				"FIT.hideWait"
+			],
+			[
+				"fwm",
+				"FIT.widget.MessageBox.error"
+			],
+			[
+				"fw",
+				"FIT.wiget.Notify.warning"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"N",
+				"FIT.wiget.Notify.error"
+			],
+			[
+				"FITn",
+				"FIT.widget.Notify.hide"
+			],
+			[
+				"hide",
+				"FIT.hideWait"
+			],
+			[
+				"fita",
+				"FIT.util.Ajax.request"
+			],
+			[
+				"fitno",
+				"FIT.wiget.Notify.error"
+			],
+			[
+				"_",
+				"_.each"
+			],
+			[
+				"ea",
+				"each	.each()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Applications/Halp/FERRET.Service/Node/public/js/pages/review/worksheetsTabs/editFileReview.js",
+			"settings":
+			{
+				"buffer_size": 13908,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Applications/Halp/FERRET.Service/Node/public/js/pages/review/worksheetsTabs/fileReviewDashboard.js",
+			"settings":
+			{
+				"buffer_size": 15922,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Applications/Halp/FERRET.Service/Node/public/js/pages/review/worksheetsTabs/riskDefinition.js",
+			"settings":
+			{
+				"buffer_size": 4074,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Applications/Halp/FERRET.Service/Node/public/js/pages/review/worksheetsTabs/setChangeBranch.js",
+			"settings":
+			{
+				"buffer_size": 3403,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Applications/Halp/FERRET.Service/Node/public/js/pages/review/worksheets.js",
+			"settings":
+			{
+				"buffer_size": 5005,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Applications/Halp/FERRET.Service/Node/public/js/pages/review/prep.js",
+			"settings":
+			{
+				"buffer_size": 31139,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Applications/Halp/FERRET.Service/Node/public/js/pages/review/assignments.js",
+			"settings":
+			{
+				"buffer_size": 14797,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 374.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 384.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Applications/Halp/FERRET.Service/Node",
+		"/C/Applications/Halp/FERRET.Service/Node/api",
+		"/C/Applications/Halp/FERRET.Service/Node/logic",
+		"/C/Applications/Halp/FERRET.Service/Node/logic/worksheetConfigs",
+		"/C/Applications/Halp/FERRET.Service/Node/public",
+		"/C/Applications/Halp/FERRET.Service/Node/public/images",
+		"/C/Applications/Halp/FERRET.Service/Node/public/js",
+		"/C/Applications/Halp/FERRET.Service/Node/public/js/pages",
+		"/C/Applications/Halp/FERRET.Service/Node/public/js/pages/review",
+		"/C/Applications/Halp/FERRET.Service/Node/public/js/pages/review/worksheetsTabs",
+		"/C/Applications/Halp/FERRET.Service/Node/public/js/pages/windows",
+		"/C/Applications/Halp/FERRET.Service/Node/views",
+		"/C/Applications/Halp/FERRET.Service/Node/views/review"
+	],
+	"file_history":
+	[
+		"/C/Applications/Halp/FERRET.Service/Node/public/js/pages/formValidation.js",
+		"/C/Applications/Halp/FERRET.Service/Node/views/contentLayoutWithNavigation.jade",
+		"/C/Applications/Halp/FERRET.Service/Node/public/js/pages/dashboardClass.js",
+		"/C/Applications/Halp/FERRET.Service/Node/public/js/pages/formClass.js",
+		"/C/Applications/Halp/FERRET.Service/Node/public/js/pages/review/worksheetsTabs/avs2.js",
+		"/C/Applications/Halp/FERRET.Service/Node/public/js/pages/review/worksheetsTabs/setChangeBranch.js",
+		"/C/Applications/Halp/FERRET.Service/Node/public/js/pages/windows/findingsPopup.js",
+		"/C/Applications/Halp/FERRET.Service/Node/public/js/pages/windows/quickFindings.js",
+		"/C/Applications/Halp/FERRET.Service/Node/public/js/pages/review/worksheetsTabs/findings.js",
+		"/C/Applications/Halp/FERRET.Service/Node/public/js/pages/review/worksheetsTabs/fileReviewDashboard.js",
+		"/C/Applications/Halp/FERRET.Service/Node/logic/worksheetConfigs/saveLoadConfigs.js",
+		"/C/Applications/Halp/FERRET.Service/Node/logic/utilityFunctions.js",
+		"/C/Applications/Halp/FERRET.Service/Node/public/js/pages/review/worksheetsTabs/controlDefinition.js",
+		"/C/Applications/Halp/FERRET.Service/Node/public/js/pages/review/worksheetsTabs/editFileReview.js",
+		"/C/Applications/Halp/FERRET.Service/Node/public/js/pages/review/worksheetsTabs/avs.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/bac-approval/dashboard.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports/widgets/AssignedRMBDO.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/dashboard/bac-admin-review.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/dashboard/rmbdoDashboard.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/internal-partners/dashboard.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports/reports.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports/reports_bak.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports/reports_bak2.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports/reports_old.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports_old/index2.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/mixinsVue.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/dashboard/bac-package.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/dashboard/due-diligence.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/formValidation.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/navigation.yaml",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/dealEntryConfigs/basicDealInformation.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/dashboard/rmbncDashboard.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/controllers/internal-partners.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/controllers/dashboard.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/dealEntryConfigs/saveLoadConfigs.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/api/due-diligence.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/dashboard/due-diligence.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/windows/additionalInformationWindow.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/windows/addWidget.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/dashboard/bac-package.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/formClass.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/dashboard/bac-admin-review.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/dashboard/carClass.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/adminReviewConfig.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/BacApprovalConfigs/overview.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/utilityFunctions.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/controllers/ba-decision.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Delta.CTS.Service.dll.config",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/controllers/utilities.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/css/app.less",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/windows/employeeSearchWindow.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/windows/creditConflictEscalationEmailWindow.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/windows/addQuestionWindow.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/windows/addFieldWindow.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/bac-approval/bac-decision_orig.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/api/bac-package.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/BacApprovalConfigs/voting.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/api/reports.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/internal-partners/groupForms.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/windows/committeeSubmitWindow.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/windows/viewMemberVotesWindow.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/windows/fileUploadWindow.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/windows/createCommitteeWindow.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/api/internal-partners.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/bac-approval/bac-decision.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/dashboardClass.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/utilities/committee.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/utilities/editProxy.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/utilities/questions.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/api/approvals.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/windows/viewLabelsWindow.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/windows/editTableConfigWindow.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/windows/bacPackagePreviewWindow.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/ba-decision/committee.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/ba-decision/ba-decision.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/reports.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/dashboardTpl.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/api/dashboard.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports/widget.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports/widgets/TaxPartnerStatus.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports/widgets/AnalyticsPartnerStatus.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports/widgets/BACPackageStatus.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports/widgets/BALevel1.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports/widgets/BALevel2.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports/widgets/CTOPartnerStatus.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/controllers/reports.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports/widgets/FocusRMBDO.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports/widgets/ProductType.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports/widgets/OverallStatus.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports/widgets/OverallBSAStatus.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports/widgets/OverallBAStatus.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports/widgets/OpportunityStatus.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports/utils.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/dealEntryConfigs/bankSecrecyAct.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/css/reports.less",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/node_modules/trailsjs/lib/prefs/index.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/config.yaml",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/services.yaml",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/BacPackageConfigs/bacSummary.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/dealEntryConfigs/dueDiligenceSummary.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/dashboard/bacSummary.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/BacPackageConfigs/exceptions.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/BacPackageConfigs/customerBankRelationship.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/BacPackageConfigs/contract.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/mixins.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/BacApprovalConfigs/saveLoadConfigs.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/dashboard/dueDiligenceSummary.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/dealEntryConfigs/RAPAnalysis.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/dealEntryConfigs/multipleRolePreview.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/dealEntryConfigs/creditConflictCheck.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/BacPackageConfigs/opportunity.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/BacPackageConfigs/lobQuestions.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/unit_test/GetDealSections.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/groupFormConfigs/analyticsGroup.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/app.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/node_modules/fit/package.json",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/node_modules/fit/lib/js/datatables.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/node_modules/fit/src/javascript/datatables/ColumnFilterWidgets.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/node_modules/fit/src/javascript/datatables/jquery.columnFilters.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/utilities/editProxy.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/api/bac-admin-review.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/api/utilities.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/internal-partners/groupForms.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/adapters/authentication.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/groupFormConfigs/saveLoadConfigs.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/groupFormConfigs/analyticsGroupBeforeVue.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/internal-partners/analyticsGroup.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/controllers/reports_old.js"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 89.0,
+		"where_history":
+		[
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\public\\js",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\views",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\logic",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\public\\js",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\node_modules\\trailsjs",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\logic",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\logic",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\public",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\api",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\logic",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\api",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\api,C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\logic",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\api",
+			"SubmitBACPackage \nSubmitBACPackage \nC:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\api",
+			"C:\\Applications\\DeltaCTS\\Code\\Delta.CTS.Service\\Node\\public",
+			"C:\\Applications\\DeltaABF\\Delta.Service\\Node\\logic\\modificationFormConfigs",
+			"C:\\Applications\\DeltaABF\\Delta.Service\\Node\\logic\\modificationFormConfigs$",
+			"C:\\Applications\\DeltaABF\\Delta.Service\\Node\\public\\js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"gFieldList",
+			"addProxy",
+			"ferret-prep-clientBtn",
+			"getSectionDiv",
+			"formValidator",
+			"addTDCollectionToDetailsDiv",
+			"getTDWithElements",
+			"clearAllTextFieldsAndSelectsInDiv",
+			"setEvents",
+			"==",
+			"beforeTabDisplay",
+			"afterTabLoad",
+			"loadAVSTemplate",
+			"setHeaderBar",
+			"renderFormHtml",
+			"getRenderCallBack",
+			"getSectionDiv",
+			"showHideDivs",
+			"getRenderCallBack",
+			"changeFlag",
+			"getTableValues",
+			"self.validationTriggered",
+			"analyticsGroupDecisionID",
+			"lobFlag",
+			"href",
+			"emailErrorMessage",
+			"RM/",
+			"RM/BDO",
+			"?",
+			"questionField",
+			"CTS.windows.AddWidget",
+			"initView",
+			"fileUploadField",
+			"dependentSelectField",
+			"fieldConfig.cls",
+			"cls",
+			"FIT.util.Ajax.request",
+			"validateBtn",
+			"#delta-form",
+			"setValidation",
+			"validateBtn",
+			"#delta-form-validate-button",
+			"afterTabLoad",
+			"setSpecialInputs",
+			"alphanumeric",
+			"parentForm",
+			"updateValidation(",
+			"labelClass",
+			"questionAnswerField",
+			"fieldConfig.required",
+			"validationTriggered",
+			"not-required",
+			"grid-required",
+			"serialize",
+			"changeCheck",
+			"force-save",
+			".force-save",
+			"readonly=",
+			"disabled=",
+			"disabled",
+			"self.tabRedirect",
+			"outstandingFlag",
+			"typeIsHidden",
+			"inputIsVisible",
+			"inputIsDisabled",
+			"formValidator",
+			"search-field",
+			"_.each($",
+			"self.win.config.el",
+			"</br>",
+			"params:",
+			"self.window",
+			"showLeaseQuestions",
+			"allDeals",
+			"console.log",
+			"savedViews",
+			"enableButtons",
+			"changeFlag",
+			"updateContingencyStatus",
+			"changeCheck",
+			"changeFlag",
+			"hide",
+			"slideup",
+			"disableButtons",
+			"checkContingencyStatus",
+			"setContingencyRows",
+			"defaultTableValues",
+			"getTableValues",
+			"submitVote",
+			"selectedCommittee",
+			"selectedCommitteeLevel",
+			"selectedCommittee",
+			"saveCallback",
+			"currentSection",
+			"CommitteeId",
+			"selectedCommittee",
+			"getTableValues",
+			"checkContingencyStatus",
+			"initVue",
+			"data.Members",
+			"findResults",
+			"generateCommitteeTable",
+			"initVue",
+			"selectedCommitteeLevel",
+			"lastLoadedFilters",
+			"updatePositionPrefs",
+			"removeAllWidgets",
+			"cfg.key",
+			"createPie",
+			"_widgets",
+			"getWidgetInst",
+			"savedViews",
+			"clearFilters",
+			"remove",
+			"removeWidget",
+			"remove",
+			"saveBtnClick",
+			"savedViews",
+			"loadData",
+			"getData",
+			"loadData",
+			"getData",
+			"self.dealId",
+			"onTabLoad",
+			"preTabLoadCheck",
+			"changeCheck",
+			"unsaved",
+			"changes"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"RM/BNC",
+			"self.windowEl",
+			"FIT.widget.MessageBox.warn(response.emailErrorMessage",
+			"data-objKey",
+			"Row",
+			"{ zindex: 1000 }"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Applications/Halp/FERRET.Service/Node/public/js/pages/review/worksheetsTabs/editFileReview.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13908,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11134,
+								11134
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Applications/Halp/FERRET.Service/Node/public/js/pages/review/worksheetsTabs/fileReviewDashboard.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15922,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1966,
+								1966
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 480.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Applications/Halp/FERRET.Service/Node/public/js/pages/review/worksheetsTabs/riskDefinition.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4074,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								908,
+								908
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 1104.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Applications/Halp/FERRET.Service/Node/public/js/pages/review/worksheetsTabs/setChangeBranch.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3403,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								963,
+								963
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 96.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Applications/Halp/FERRET.Service/Node/public/js/pages/review/worksheets.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5005,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								678,
+								678
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1920.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Applications/Halp/FERRET.Service/Node/public/js/pages/review/prep.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2131,
+								2139
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 461.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Applications/Halp/FERRET.Service/Node/public/js/pages/review/assignments.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14797,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9585,
+								9585
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3024.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Halp.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 374.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1094.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 346.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

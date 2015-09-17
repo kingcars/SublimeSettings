@@ -1,0 +1,1156 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fajax",
+				"FIT.Ajax"
+			],
+			[
+				"fwm",
+				"FIT.widget.MessageBox.confirm"
+			],
+			[
+				"fwn",
+				"FIT.widget.Notify.error"
+			],
+			[
+				"fwmb",
+				"FIT.widget.MessageBox.confirm"
+			],
+			[
+				"Fwn",
+				"FIT.wiget.Notify.info"
+			],
+			[
+				"regul",
+				"RegulatoryReporting"
+			],
+			[
+				"basel",
+				"BASELIIIExposure"
+			],
+			[
+				"N",
+				"FIT.wiget.Notify.error"
+			],
+			[
+				"FITn",
+				"FIT.widget.Notify.hide"
+			],
+			[
+				"hide",
+				"FIT.hideWait"
+			],
+			[
+				"fita",
+				"FIT.util.Ajax.request"
+			],
+			[
+				"fitno",
+				"FIT.wiget.Notify.error"
+			],
+			[
+				"_",
+				"_.each"
+			],
+			[
+				"ea",
+				"each	.each()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/NAICWindow.js",
+			"settings":
+			{
+				"buffer_size": 7402,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/customerSummary.js",
+			"settings":
+			{
+				"buffer_size": 1498,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/customerSummary.js",
+			"settings":
+			{
+				"buffer_size": 17001,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 374.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 504.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Applications/DeltaABF/Delta.DAL",
+		"/C/Applications/DeltaABF/Delta.Service",
+		"/C/Applications/DeltaABF/Delta.Service/Node",
+		"/C/Applications/DeltaABF/Delta.Service/Node/adapters",
+		"/C/Applications/DeltaABF/Delta.Service/Node/api",
+		"/C/Applications/DeltaABF/Delta.Service/Node/controllers",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/css",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/lib",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/postbooking",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/reports",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/salesForce",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/utilities",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/tpls",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/tpls/windows",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/dashboard",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/dashboard/formSections",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/postbooking",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/reports",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/salesForce",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/utilities"
+	],
+	"file_history":
+	[
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationForm.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/baselExposure.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/termLoan.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/baselIIIExposure.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/utilityFunctions.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/postbooking/certificationForm.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/config.yaml",
+		"/C/Applications/DeltaABF/Delta.Service/Node/controllers/postbooking.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/postbooking/certificationForm.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/certifyDealWindow.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/api/postbooking.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboardClass.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/postbooking/dashboard.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/baselExposureVue.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/dashboard/modificationForm.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/formValidation.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/dashboard/revisionPage.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/postbooking/dashboard.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/navigation.yaml",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/app.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/selectEmailWindow.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/baseSectionConfig.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/verifyFieldWindow.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/tpls/windows/fieldVerification.html",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/deltadi/certificationForm.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/tpls/windows/certifyDeal.html",
+		"/C/Applications/DeltaABF/Delta.Service/Node/services.yaml",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/formClass.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/api/modificationForm.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/searchDashboard.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/css/app.less",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/deltadi/certificationForm.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/deltadi/dashboard.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/emailNotifyWindow.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/lib/vue.filters.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/api/deltadi.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/controllers/deltadi.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/unit_test/SavePostBookingDealFieldVerify.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/customerSummary.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/unit_test/GetDealFormLookups.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/unit_test/PostBookingGetLookup.js",
+		"/C/Applications/DeltaABF/Delta.Service/Delta.ABF.Service.dll.config",
+		"/C/Applications/DeltaABF/Delta.Service/Node/unit_test/GetPostBookingDealDetails.js",
+		"/C/Applications/DeltaABF/Delta.DAL/DIDealsRepository.cs",
+		"/C/Applications/DeltaABF/Delta.Service/Node/web.config",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/reports/caamReport.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/NAICWindow.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/customerSummary.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/termAndPurpose.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/borrowerReportWindow.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/mixins.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/tabClass.js",
+		"/C/Applications/DeltaABF/Delta.Service/web.config",
+		"/C/Applications/DeltaABF/Delta.Service/Node/unit_test/GetPostBookingDeals.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/baselIIIExposureVue.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/mixinsVue.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/controllers/dashboard.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/defaultFormSectionVue.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/controllers/utilities.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/pricing.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/transactionSummary.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/loanExposure.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/reports/report1146.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/revisionPage.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/api/index.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/api/fromSalesForce.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/api/utilities.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/api/reports.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/api/dashboard.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/transactionSummary.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/loanExposure.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/utilities/editCaam.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/salesForce/newDealFromSalesForce.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/policyException.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/riskRating.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/fileAttachment.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/controllers/salesForce.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/coRmIdentification.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/addAuthItemWindow.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/feedbackEmailWindow.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/fileUploadWindow.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/report1146Window.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/userReportWindow.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/viewSalesforceDataWindow.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/dashboard/formSections/policyException.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/approvalScreen.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/utilities/caamApprovalAttachments.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/auditLogWindow.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/searchAUWindowOld.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/node_modules/trailsjs/lib/adapters/index.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/realEstateSecuredloans.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/node_modules/trailsjs/lib/utils/mongo.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/searchAUWindow.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/node_modules/fit/src/javascript/datatables/jquery.columnFilters.js",
+		"/C/Users/U270536/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/utilities/editCaam.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/tpls/windows/notifyEmail.html",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/exceptionWindow.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/tpls/windows/exception.html",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/utilities/caamApprovalAttachments.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/adapters/upload.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/utilities/caamFiles.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/unit_test/GetDealFilesList.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/unit_test/SaveCAAMs.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/rmIdentification.js",
+		"/C/Users/U270536/AppData/Roaming/Sublime Text 3/Packages/fit-sublime-snippets/FIT.sublime-completions",
+		"/C/Users/U270536/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/U270536/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/formClassOld.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/deltadi/dashboard.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/dashboard/searchDashboard.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/sharedNationalCredits.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/getModificationFormConfig.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/sharedNationalCredits.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/collateral.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/regulatoryReporting.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/realEstateSecuredLoans.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/subsystemSelection.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/pricing.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/adapters/authentication.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/regulatoryReporting.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/dashboard/formSections/sharedNationalCredits.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/basicInformation.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/riskRating.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/collateral.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/node_modules/fit/lib/js/datatables.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/newDealConfig.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/node_modules/fit/lib/js/FIT.js"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 89.0,
+		"where_history":
+		[
+			"C:\\Applications\\DeltaABF\\Delta.Service\\Node\\public\\js",
+			"C:\\Applications\\DeltaABF\\Delta.Service\\Node\\logic",
+			"C:\\Applications\\DeltaABF\\Delta.Service\\Node\\public\\js",
+			"C:\\Applications\\DeltaABF\\Delta.Service\\Node\\public\\js\\pages\\windows",
+			"C:\\Applications\\DeltaABF\\Delta.Service\\Node\\public\\js\\windows",
+			"C:\\Applications\\DeltaABF\\Delta.Service\\Node\\public\\js",
+			"C:\\Applications\\DeltaABF\\Delta.Service\\Node\\logic",
+			"C:\\Applications\\DeltaABF\\Delta.Service\\Node\\",
+			"C:\\Applications\\DeltaABF\\Delta.Service\\Node\\public",
+			"C:\\Applications\\DeltaABF\\Delta.Service\\Node\\logic",
+			"C:\\Applications\\DeltaABF\\Delta.Service\\Node\\",
+			"C:\\Applications\\DeltaABF\\Delta.Service\\Node\\logic",
+			"C:\\Applications\\DeltaABF\\Delta.Service\\Node\\",
+			"C:\\Applications\\DeltaABF\\Delta.Service\\Node\\logic",
+			"C:\\Applications\\DeltaABF\\Delta.Service\\Node\\public\\js",
+			"C:\\Applications\\DeltaABF\\Delta.Service\\Node\\logic\\modificationFormConfigs",
+			"C:\\Applications\\DeltaABF\\Delta.Service\\Node\\logic\\modificationFormConfigs$",
+			"C:\\Applications\\DeltaABF\\Delta.Service\\Node\\public\\js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getListData",
+			"nextTick",
+			"getListData",
+			"currentVal",
+			"getListData",
+			"initialValue",
+			"getListData",
+			"#delta-NAICCode-Code",
+			"submitForm",
+			"DoNotVerify",
+			"deltadi",
+			"deltaDi",
+			"ABF.windows.SelectEmailWindow",
+			"self.name",
+			"name",
+			"button",
+			"addClass",
+			"RevolverMatDt",
+			"delta-fieldDetails-save",
+			"PostBookingStatusId",
+			"IsAutoCertified",
+			"self.isException",
+			"Status",
+			"AutoCertify",
+			"RenewalFacilityMatDt",
+			"Current Note",
+			"ParentLegalEntityName",
+			"ModificationEffectiveDate",
+			"RenewalFacilityMatDt",
+			"RenewalEffDt",
+			"RenewalFacilityMatDt",
+			"OwnedBySPV",
+			"ParentLegalEntityName",
+			"setValues",
+			"ParentLegalEntityName",
+			"#delta-NAICCode-Code",
+			"iCheck",
+			"ParentLegalEntityName",
+			"ClientSubType",
+			"IsIssuingSecuritiesOrCommercialPaperDesignation",
+			"ABF.windows.BorrowerReportWindow",
+			"self.currentVa",
+			"#delta-NAICCode-Code",
+			"tableTools: {",
+			"AvailableClientSubTypes",
+			"AvailableBasel2SubGroupings",
+			"IsIssuingSecuritiesOrCommercialPaperDesignation",
+			"AvailableClientSubTypes",
+			"AvailableBasel2SubGroupings",
+			"Lookup_ClientSubType",
+			"AvailableClientSubTypes",
+			"force-save",
+			"nullableNumber",
+			"underl",
+			"AvailableBasel2SubGrouping",
+			"IsIssuingSecuritiesOrCommercialPaperDesignation",
+			"BaselAreaId",
+			"disabled: '",
+			"disabled",
+			"IsIssuingSecuritiesOrCommercialPaperDesignation",
+			"listloadKey",
+			"ExposureCategoryId",
+			"data:",
+			"mainSelect",
+			"data.",
+			"heading",
+			"validateSubLimits",
+			"setValidation",
+			"validationTriggered",
+			"getAllDeals",
+			"getSalesForceViewData",
+			"getApproverList",
+			"getRevisions",
+			"getAllDeals",
+			"readonlyInformation",
+			"validationTriggered",
+			"parentForm.validationTriggered",
+			"self.validationTriggered",
+			"modifiedStatus",
+			"dataCheckMatrix",
+			"getRenderCallBack",
+			"RenewalFacilityMatDt",
+			"100p",
+			"dataCheckMatrix",
+			"validateBtn",
+			"validationTriggered",
+			"setValidation",
+			".grid-required",
+			"getChecked()",
+			"RenewalFacilityMatDt",
+			"force-save",
+			".force-save",
+			"updateValidation",
+			"runCb",
+			"dependentFieldsControllerCb",
+			"formValidator",
+			"FormValidator",
+			"formValidator",
+			"disableButtons",
+			"_.each($",
+			"self.winEl.find",
+			"fieldKey",
+			"fields",
+			"self.window",
+			"data:",
+			"params:",
+			"frontEndData.editEnabled = cfg.editEnabled;",
+			"params:",
+			"params",
+			"simulate",
+			"SPE",
+			"disableType: 'disable'",
+			"IsIssuingSecuritiesOrCommercialPaperDesignation",
+			"SPE Issuing/Issued Securities or Commercial Paper Designation",
+			"preTabLoadCheck",
+			"saveCheck",
+			"obj",
+			"onTabLoad",
+			"Total Facility Credit",
+			"Total Facility Credit Amount",
+			"saveForm",
+			"Is Wells Fargo the Swing Line Lender?",
+			"IsAssetBackedCPconduit",
+			"IsExposureOverlapped",
+			"MongoDB:",
+			"Adapters Loaded:",
+			"Collateral Value",
+			"clearFilters"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"self.dealInfo.IsException",
+			"PostBookingStatusId",
+			"IsAutoCertified",
+			"id",
+			"listData",
+			"loadKey:",
+			"self.win\n",
+			"data:\n",
+			"                \n",
+			"self.windowEl.find",
+			"No Value",
+			"",
+			"FieldName",
+			"key",
+			"self.windowEl.find",
+			"self.windowEl",
+			"widget",
+			"trails.log.verbose",
+			"trails.log",
+			"data-objKey",
+			"Row",
+			"{ zindex: 1000 }"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/NAICWindow.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7402,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5832,
+								5832
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2112.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/customerSummary.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1498,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								843,
+								843
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/customerSummary.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17001,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5388,
+								5388
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1440.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "DeltaABF.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 374.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1094.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 357.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

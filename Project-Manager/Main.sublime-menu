@@ -1,0 +1,18 @@
+[
+    {
+        "caption": "Project",
+        "id": "project",
+        "children":
+        [
+            {
+                "caption": "-"
+            },
+            {
+                "caption": "Project Manager",
+                "command": "project_manager"
+            }
+        ]
+    }
+
+
+]

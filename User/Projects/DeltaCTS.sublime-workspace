@@ -1,0 +1,1889 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"delta-form-",
+				"delta-form-attach-button"
+			],
+			[
+				"fwm",
+				"FIT.widget.MessageBox.ok"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"AtMarketAttestat",
+				"atMarketAttestationLastUpdatedBy"
+			],
+			[
+				"validation",
+				"validationTriggered"
+			],
+			[
+				"fwn",
+				"FIT.widget.Notify.success"
+			],
+			[
+				"fhw",
+				"FIT.hideWait"
+			],
+			[
+				"fw",
+				"FIT.wiget.Notify.warning"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"N",
+				"FIT.wiget.Notify.error"
+			],
+			[
+				"FITn",
+				"FIT.widget.Notify.hide"
+			],
+			[
+				"hide",
+				"FIT.hideWait"
+			],
+			[
+				"fita",
+				"FIT.util.Ajax.request"
+			],
+			[
+				"fitno",
+				"FIT.wiget.Notify.error"
+			],
+			[
+				"_",
+				"_.each"
+			],
+			[
+				"ea",
+				"each	.each()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/dashboardClass.js",
+			"settings":
+			{
+				"buffer_size": 4683,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/navigation.yaml",
+			"settings":
+			{
+				"buffer_size": 1219,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/controllers/utilities.js",
+			"settings":
+			{
+				"buffer_size": 1506,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports/reports.js",
+			"settings":
+			{
+				"buffer_size": 23291,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports/utils.js",
+			"settings":
+			{
+				"buffer_size": 10478,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/dashboard/rmbdoDashboard.js",
+			"settings":
+			{
+				"buffer_size": 5595,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/dashboard/due-diligence.js",
+			"settings":
+			{
+				"buffer_size": 15260,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/dashboard/regulatoryScreening.jade",
+			"settings":
+			{
+				"buffer_size": 3355,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/windows/addWidget.js",
+			"settings":
+			{
+				"buffer_size": 4836,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/config.yaml",
+			"settings":
+			{
+				"buffer_size": 2176,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/internal-partners/dashboard.js",
+			"settings":
+			{
+				"buffer_size": 5260,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 374.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 384.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/adapters",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/api",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/controllers",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/BacApprovalConfigs",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/BacPackageConfigs",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/dealEntryConfigs",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/groupFormConfigs",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/reports",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/css",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/dashboard",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/tpls",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/approvals",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/ba-decision",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/dashboard",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/internal-partners"
+	],
+	"file_history":
+	[
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/BacApprovalConfigs/overview.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/bac-approval/bac-decision.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/formValidation.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/dashboard/due-diligence.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/api/reports.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/controllers/ba-decision.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports/reports.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/dashboard/rmbncDashboard.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/services.yaml",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/api/approvals.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/api/bac-admin-review.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/css/app.less",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/adminReviewConfig.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/dashboardTpl.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/navigation.yaml",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/lib/vue.filters.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/dashboard/due-diligence.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/formClassVue.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/dashboard/bac-admin-review.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/controllers/internal-partners.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/dealEntryConfigs/saveLoadConfigs.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/dealEntryConfigs/basicDealInformation.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/mixinsVue.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/windows/resendMeetingWindow.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/api/due-diligence.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/dashboard/bac-package.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/internal-partners/test.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/internal-partners/test.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/ba-decision/ba-decision.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/internal-partners/dashboard.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/dashboard/rmbdoDashboard.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/ba-decision/deal.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/utilityFunctions.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/BacApprovalConfigs/saveLoadConfigs.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/getDynamicSectionVue.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/groupFormConfigs/taxGroup.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/bac-approval/dashboard.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/mixins.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/BacApprovalConfigs/voting.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/windows/creditConflictEscalationEmailWindow.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/windows/viewMemberVotesWindow.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/ba-decision/committee.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/BacPackageConfigs/saveLoadConfigs.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/BacPackageConfigs/bacSummary.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/controllers/dashboard.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/groupFormConfigs/ctoGroup.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/dashboard/bacSummary.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/dashboard/dealFileAttachment.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/reports.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/api/bac-package.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/dashboard/bac-packageVue.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/adminReviewConfig_bak.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/dashboard/bac-admin-review_bak.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/dealEntryConfigs/regulatoryScreening.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/dashboard/bac-approval.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/dealEntryConfigs/dueDiligenceSummary.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/windows/committeeSubmitWindow.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/dashboard/bac-admin-review.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/windows/setCommitteeOptionsWindow.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/dashboard/bac-admin-reviewVue.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/lib/vue.transitions.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/dashboard/dueDiligenceSummary.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/utilities/committee.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/api/internal-partners.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/dealEntryConfigs/bankSecrecyAct.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/controllers/dashboard_test.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/dashboard/due-diligence_bak.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/dashboard/bac-package.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/internal-partners/groupForms.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/dashboard/due-diligenceVue.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/internal-partners/groupForms.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/dealEntryConfigs/productServicesValidation.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/internal-partners/analyticsGroup.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/dashboardClass.js",
+		"/C/Users/U270536/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/api/dashboard.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/groupFormConfigs/saveLoadConfigs.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/formClass.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/web.config",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/bac-approval/bac-decisionVue.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/BacApprovalConfigs/overviewVue.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/controllers/utilities.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/defaultFormSectionVue.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/groupFormConfigs/analyticsGroup.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/internal-partners/groupFormsVue.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/dashboard/RAPAnalysisSection.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/dashboard/due-diligence_current.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/dealEntryConfigs/conflictReview.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/mixinsVue_current.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/dashboard/due-diligence-vueConfigs.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/internal-partners/groupForms_old.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/api/utilities.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/defaultFormSection.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/unit_test/DealQuestionAnswer/GetDealQuestions.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/api/proxy.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/dealEntryConfigs/testing.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/getDynamicSection.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/BacPackageConfigs/contract.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/dealEntryConfigs/RAPAnalysis.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/dashboard/regulatoryScreening.jade",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/unit_test/GetLists.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/unit_test/RegulatoryScreening/GetRegulatoryScreeningSummary.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/internal-partners/groupForms_new.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/windows/fileUploadWindow.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/unit_test/RegulatoryScreening/SaveRegulatoryScreeningDetail.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/dealEntryConfigs/regulatoryScreeningBeforeVue.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/unit_test/RegulatoryScreening/RemoveRegulatoryScreeningDetail.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/unit_test/RegulatoryScreening/GetRegulatoryScreeningDetail.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Delta.CTS.Service.dll.config",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/config.yaml",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/logic/groupFormConfigs/ctoGroup_old.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports/widgets/FocusRMBDO.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/controllers/index.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/app.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports/widgets/AssignedRMBDO.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports/reports_bak.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports/reports_bak2.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports/reports_old.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports_old/index2.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/windows/additionalInformationWindow.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/windows/addWidget.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/dashboard/carClass.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/windows/employeeSearchWindow.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/windows/addQuestionWindow.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/windows/addFieldWindow.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/bac-approval/bac-decision_orig.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/windows/createCommitteeWindow.js",
+		"/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/utilities/editProxy.js"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 89.0,
+		"where_history":
+		[
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\public\\js",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\api",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\public\\js",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\api",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\controllers",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\public\\js",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\api",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\public\\js",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\views",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\logic",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\public\\js",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\node_modules\\trailsjs",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\logic",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\logic",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\public",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\api",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\logic",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\api",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\api,C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\logic",
+			"C:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\api",
+			"SubmitBACPackage \nSubmitBACPackage \nC:\\Applications\\DeltaCTS_old\\Code\\Delta.CTS.Service\\Node\\api",
+			"C:\\Applications\\DeltaCTS\\Code\\Delta.CTS.Service\\Node\\public",
+			"C:\\Applications\\DeltaABF\\Delta.Service\\Node\\logic\\modificationFormConfigs",
+			"C:\\Applications\\DeltaABF\\Delta.Service\\Node\\logic\\modificationFormConfigs$",
+			"C:\\Applications\\DeltaABF\\Delta.Service\\Node\\public\\js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"NextTick",
+			"lastLoadedFilters",
+			"OverallBAStatus",
+			"load",
+			"display: none;",
+			"log",
+			"createButtonConfig",
+			"committeesDisabled",
+			"disabled",
+			"visible:",
+			"saveCommittee",
+			"Is Wells Fargo acting as underwriter on the transaction?",
+			"sendEmail",
+			"meetingResend",
+			"meetingResendCheckBox",
+			"committeeOptions",
+			"saveBAStatus",
+			"SaveDealStatus",
+			"self.committeeId",
+			"self.meetingId",
+			"self.committeeType",
+			"self.committeeName",
+			"self.committeeId",
+			"MemberVoteRequiredId",
+			"submitForm",
+			"saveCommittee",
+			"self.dealId",
+			"self.baseData.DealID",
+			"defaults",
+			"defaultMeetingObj",
+			"checkPermissions",
+			"allowEdit",
+			"editEnabled",
+			"checkPermissions",
+			"OverallBAStatus",
+			"listData",
+			"trails",
+			"self.baseData.formName",
+			"MemberVoteRequiredId",
+			"cb",
+			"CommitteeVoteRequiredId",
+			"OverallBAStatus",
+			"outstandingFlag",
+			"setSect",
+			"iCheck",
+			"response.emailErrorMessage",
+			"checkPermissions",
+			"dealId",
+			"CTS.windows.CommitteeSubmit",
+			"meeting",
+			"checkForChanges",
+			"$(",
+			"saveMethod",
+			"getDealHeaderInfo(req, res, data, render);",
+			"getDealHeaderInfo",
+			"CommitteeResponseId",
+			"MeetingId",
+			"BSACompliance",
+			"merge",
+			"showFormButtons",
+			"hasValidation",
+			"showEmailBtn",
+			"emailFlag",
+			"self.emailFlag",
+			"emailFlag",
+			"self.currentSection",
+			".delta-form-attach-button",
+			"self.dealStatus.val()",
+			"emailInternalPartner",
+			"emailInternalPartners",
+			"emailInternalPartner",
+			"self.vm",
+			"disableB",
+			"enable",
+			"self.dealId",
+			"+self.baseData.DealID",
+			"self.baseData.DealID",
+			"+self.baseData.DealID",
+			"DealID",
+			"self.baseData.DealID",
+			"self.baseData.dealID",
+			"self.vm",
+			"currentSection",
+			"allowEdit",
+			"currentStatus",
+			"self.vm.editEnabled",
+			"enableButtons",
+			"self.vm._children[0]",
+			"self.vm.formData",
+			"showFormButtons",
+			"destroy",
+			"if(self.vm) ",
+			"showValidateBtn",
+			"if(self.vm",
+			"setSectionStatuses",
+			"self.dealId",
+			"changeFlag",
+			"tabsIncomplete",
+			"self.form",
+			"setSectionStatuses",
+			"getRapQuestionsHit",
+			"questionNo",
+			"changeCheck",
+			"checkForChanges",
+			"cleanObj",
+			"showEmailBtn",
+			"enableButtons:",
+			"formData.isWfss",
+			"lobIsWfss",
+			"setIntegerTypes",
+			"getRapQuestionsHit",
+			"date",
+			"tableTools: {",
+			"getRapQuestionsHit",
+			"Voting",
+			"updateContingencyStatus",
+			"OverallBAStatus",
+			"OverallStatus",
+			"outstandingFlag",
+			"setContingencyRows",
+			"defaultTableValues",
+			"lastUpdatedBy",
+			"setContingencyRows",
+			"self.vm.$destroy();",
+			"editEnabled",
+			"sectionsWithoutVue",
+			"self.editEnabled",
+			"validationTriggered"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"meetingResend",
+			"MemberVoteRequiredId",
+			"getDealHeaderInfo(req, res, data, next, render);",
+			"showEmailBtn",
+			"self.vm.emailFlag",
+			"self.baseData.OverallStatus",
+			"self.baseData.DealID",
+			"+self.baseData.DealID",
+			"self.currentTabVm",
+			"self.vm._children[0].formData",
+			"self.baseData.dealID",
+			"getDynamicSectionVue",
+			"listData:",
+			"loadKey:",
+			"\"",
+			"volckerPending",
+			"16398",
+			"16397",
+			"16396",
+			"16395",
+			"| nullableNumber",
+			"| number | nullable",
+			"",
+			"formData.IsNonCtsPartyBankEntityId === 17394",
+			"formData.IsRegAffiliateDirectId === 17396",
+			"formData.IsNonCtsPartyBankEntityId === 17395",
+			"formData.IsDirectPartyNonCtsId === 17394",
+			"IsDirectPartyWfVolckerId",
+			"AtMarketAttestationId",
+			"VerifyTransactionMeetsThirdPartyExplanation",
+			"VerifyTransactionMeetsThirdPartyDetail",
+			"VerifyTransactionMeetsThirdPartyId",
+			"VerifyTransactionMeetsTargetedMinimumExplanation",
+			"VerifyTransactionMeetsTargetedMinimumDetail",
+			"VerifyTransactionMeetsTargetedMinimumId",
+			"IsRegAffiliateDirectId",
+			"IsNonCtsPartyBankEntityId",
+			"IsDirectPartyNonCtsId",
+			"disabled: true",
+			"'listData.YesNo'",
+			"loadKey",
+			"saveKey",
+			"saveKey2",
+			"RM/BNC",
+			"self.windowEl",
+			"FIT.widget.MessageBox.warn(response.emailErrorMessage",
+			"data-objKey",
+			"Row",
+			"{ zindex: 1000 }"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/dashboardClass.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4683,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								192,
+								192
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/navigation.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								805,
+								814
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 192.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/controllers/utilities.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1506,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								210,
+								210
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports/reports.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23291,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8552,
+								8552
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3321.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/reports/utils.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/dashboard/rmbdoDashboard.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5595,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1207,
+								1207
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 307.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/dashboard/due-diligence.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1584.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/views/dashboard/regulatoryScreening.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								81,
+								81
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/Jade/Syntaxes/PyJade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/windows/addWidget.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4836,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								743,
+								743
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/config.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2176,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1152,
+								1152
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 48.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/Applications/DeltaCTS_old/Code/Delta.CTS.Service/Node/public/js/pages/internal-partners/dashboard.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3126,
+								3126
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 312.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "DeltaCTS.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"utili",
+				"controllers\\utilities.js"
+			],
+			[
+				"nav",
+				"navigation.yaml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 374.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1094.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 370.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

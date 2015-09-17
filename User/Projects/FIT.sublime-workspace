@@ -1,0 +1,920 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"regul",
+				"RegulatoryReporting"
+			],
+			[
+				"basel",
+				"BASELIIIExposure"
+			],
+			[
+				"N",
+				"FIT.wiget.Notify.error"
+			],
+			[
+				"FITn",
+				"FIT.widget.Notify.hide"
+			],
+			[
+				"hide",
+				"FIT.hideWait"
+			],
+			[
+				"fita",
+				"FIT.util.Ajax.request"
+			],
+			[
+				"fitno",
+				"FIT.wiget.Notify.error"
+			],
+			[
+				"_",
+				"_.each"
+			],
+			[
+				"ea",
+				"each	.each()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Applications/FIT/src/javascript/datatables/jquery.columnFilters.js",
+			"settings":
+			{
+				"buffer_size": 27559,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Applications/FIT/src/javascript/fit/component/SideTabs.js",
+			"settings":
+			{
+				"buffer_size": 2426,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Applications/FIT/src/javascript/fit/component/DataTable.js",
+			"settings":
+			{
+				"buffer_size": 15889,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 374.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 504.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Applications/FIT",
+		"/C/Applications/FIT/src",
+		"/C/Applications/FIT/src/javascript",
+		"/C/Applications/FIT/src/javascript/datatables",
+		"/C/Applications/FIT/src/javascript/fit",
+		"/C/Applications/FIT/src/javascript/fit/component",
+		"/C/Applications/FIT/src/javascript/fit/widget"
+	],
+	"file_history":
+	[
+		"/C/Applications/FIT/src/javascript/datatables/dataTables.tableTools.js",
+		"/C/Users/U270536/AppData/Roaming/Sublime Text 3/Packages/User/Projects/FIT.sublime-project",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/utilityFunctions.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/termLoan.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/baseSectionConfig.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/api/modificationForm.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/formClassOld.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/css/app.less",
+		"/C/Applications/DeltaABF/Delta.Service/Node/api/dashboard.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/formClass.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationForm.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/controllers/dashboard.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/baselIIIExposure.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/sharedNationalCredits.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/reports/report1146.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/services.yaml",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/selectEmailWindow.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/getModificationFormConfig.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboardClass.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/coRmIdentification.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/baselExposure.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/tabClass.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/transactionSummary.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/sharedNationalCredits.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/policyException.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/loanExposure.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/fileAttachment.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/collateral.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/customerSummary.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/regulatoryReporting.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/realEstateSecuredLoans.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/subsystemSelection.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/pricing.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/adapters/authentication.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/riskRating.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/borrowerReportWindow.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/regulatoryReporting.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationFormTabs/termAndPurpose.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/NAICWindow.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/dashboard/formSections/sharedNationalCredits.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/transactionSummary.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/rmIdentification.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/basicInformation.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/riskRating.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/collateral.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/revisionPage.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/customerSummary.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/mixins.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/navigation.yaml",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/approvalScreen.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/node_modules/fit/lib/js/datatables.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/salesForce/newDealFromSalesForce.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/newDealConfig.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/node_modules/fit/lib/js/FIT.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/app.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/searchDashboard.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/formValidation.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/layout.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/dashboard/formSections/TransactionSummary.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/defaultMixins.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/app.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/node_modules/trailsjs/lib/nav/index.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/tpls/windows/auSearch.html",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/searchAUWindowOld.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/searchAUWindow.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/unit_test/GetAUDetails.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/node_modules/trailsjs/node_modules/fit/src/javascript/datatables/jquery.columnFilters.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/node_modules/trailsjs/node_modules/fit/src/css/FIT-Skin/datatable.less",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/reports/1146Report.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/node_modules/trailsjs/node_modules/fit/src/javascript/datatables/jquery.dataTables.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/auditLogWindow.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/node_modules/trailsjs/node_modules/fit/src/javascript/plugins/zebra_datepicker.src.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/realEstateSecuredloans.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/pricing.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/dashboard/formSections/loanExposureSection.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/node_modules/trailsjs/node_modules/fit/src/javascript/datatables/dt.stateClear.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/dashboard/searchDashboard.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/config.yaml",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/policyException.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/salesForce/fromSalesForce.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/dashboard/formSections/policyException.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/dashboard/modificationForm.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/node_modules/trailsjs/package.json",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/dashboard/revisionPage.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/node_modules/trailsjs/node_modules/fit/src/javascript/datatables/ColumnFilterWidgets.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/logic/modificationFormConfigs/loanExposure.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/dashboard/modificationForm2.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/fileUploadWindow.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/dashboard/formSections/dealFileAttachment.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/css/app.css",
+		"/C/Applications/DeltaABF/Delta.Service/Node/api/fromSalesForce.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/salesForce/newDealFromSalesForce.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/controllers/salesForce.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/salesForce/fromSalesforce.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/dashboard/approvalScreen.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/unit_test/SubmitDealToRM.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/node_modules/trailsjs/node_modules/fit/src/javascript/fit/component/SideTabs.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/web.config",
+		"/C/Applications/DeltaABF/Delta.Service/Node/unit_test/GetDealFormData.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/feedbackEmailWindow.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/adapters/upload.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/viewSalesforceDataWindow.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/node_modules/trailsjs/node_modules/fit/src/javascript/fit/component/DataTable.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/node_modules/trailsjs/lib/utils/download.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/node_modules/trailsjs/lib/utils/log.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/error.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/controllers/utilities.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/controllers/reports.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/controllers/login.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/controllers/index.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/report1146Window.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/api/utilities.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/utilities/manageEmails.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/employeeSearchWindow.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/utilities/viewUsers.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/utilities/manageEmails.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/counterPartyWindow.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/utilities/viewUsers.jade",
+		"/C/Applications/DeltaABF/Delta.Service/Node/unit_test/DeleteEmailSubscriber.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/unit_test/SaveEmailSubscriber.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/node_modules/trailsjs/lib/controller/index.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/unit_test/GetEmailSubscribers.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/editGroupWindow.js",
+		"/C/Users/U270536/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Applications/DeltaABF/Delta.Service/Node/unit_test/GetUsers.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/public/js/pages/windows/employeeSearchWindow",
+		"/C/Applications/DeltaABF/Delta.Service/Node/node_modules/trailsjs/lib/middleware/index.js",
+		"/C/Applications/DeltaABF/Delta.Service/Node/views/baseTabTpl.jade"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 89.0,
+		"where_history":
+		[
+			"C:\\Applications\\DeltaABF\\Delta.Service\\Node\\public\\js",
+			"C:\\Applications\\DeltaABF\\Delta.Service\\Node\\logic\\modificationFormConfigs",
+			"C:\\Applications\\DeltaABF\\Delta.Service\\Node\\logic\\modificationFormConfigs$",
+			"C:\\Applications\\DeltaABF\\Delta.Service\\Node\\public\\js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"initialLoad",
+			"hash",
+			"onTabClick",
+			"onTabLoad",
+			"self.filter",
+			"clearFilters",
+			"perPage",
+			"txt",
+			"pdf",
+			"next",
+			"submitCallback",
+			"self.cleanObj",
+			"getListData",
+			"self.tabsIncomplete",
+			"submitForm",
+			"the sole leader",
+			"sectionFiles",
+			"setSectionStatuses",
+			"trails.log",
+			"configFile",
+			"self.editEnabled",
+			"saveCheck",
+			"submitCallback",
+			"generateSelectBoxHtml",
+			"sharedNationalCreditsTotals",
+			".delta-deal-sharedNatl-delete-row-button",
+			"generateSelectBoxHtml",
+			"deleteTableRow",
+			"destroy",
+			"sendEmail",
+			"generateSelectBoxHtml",
+			"sumAfterLoad",
+			"Term and",
+			"checkTermLoanDates",
+			"Customer Summary",
+			" before",
+			"self.dataTable",
+			"self.datatable",
+			"sectionsNotRequired",
+			"getRenderCallBack",
+			"cleanObj",
+			"saveCheck",
+			"clean",
+			"cleanObj",
+			"afterTabLoad",
+			"setSectionStatuses",
+			"tabIndex",
+			"initialFunction",
+			"cleanObj",
+			"setSpecialInputs",
+			"afterTabLoad",
+			"Lookup_BorrowingStrategyType",
+			"desc",
+			"type",
+			"sortType",
+			"checkTermLoanDates",
+			"afterTabLoad",
+			"getRenderCallBack",
+			"force",
+			"#delta-form",
+			"restoreState",
+			"fnResetAndSetFilters",
+			"self.dataTable",
+			"'style'",
+			"style",
+			"cleanObj",
+			"preTabLoadCheck",
+			"state",
+			"basePath",
+			"showDateFilter",
+			"appendTerm",
+			"RAMP",
+			"checkPermission",
+			"datachanged",
+			"savestate",
+			"statesave",
+			"filter.clear",
+			"_fnAddData",
+			"drawFilters",
+			"draw",
+			"filter-draw.dt",
+			"text",
+			"createDateFilter",
+			"Purpose",
+			"listData",
+			"restore",
+			"showDateFilter",
+			"stateSave",
+			"stateSaveParams",
+			"_fnSearchToCamel",
+			"state",
+			"datePopup",
+			"setDateFilterValues",
+			"filters-restore.dt",
+			"restoreState",
+			"initEvents",
+			"default_day",
+			"onClear",
+			"reference_date",
+			"select_date",
+			"default_date",
+			"update_dependent",
+			"appendTerm",
+			"_fnFilterCustom",
+			"search",
+			"filterDates",
+			"generateJsonData",
+			"generateDropDownHtml",
+			"update_dependent",
+			"moment",
+			"utils",
+			"convertDates",
+			"moment",
+			"convertDates",
+			"moment",
+			"convertDates",
+			"update_dependent",
+			"#form-RenewalEffDt-field",
+			"afterTabLoad",
+			"generateSelectBoxHtml",
+			"disabled: true",
+			"fnFilter",
+			"table",
+			"generateDropDownHtml",
+			"textarea",
+			"self.cleanObj",
+			"conversionExceptions",
+			"location.reload(true);"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"trails.log.verbose",
+			"trails.log",
+			"data-objKey",
+			"Row",
+			"{ zindex: 1000 }"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Applications/FIT/src/javascript/datatables/jquery.columnFilters.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27559,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13281,
+								13281
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4241.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Applications/FIT/src/javascript/fit/component/SideTabs.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2426,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1254,
+								1254
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 192.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Applications/FIT/src/javascript/fit/component/DataTable.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15889,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1012,
+								1019
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "FIT.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 374.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1094.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 357.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
